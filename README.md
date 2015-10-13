@@ -1,6 +1,6 @@
 # SkypeChat
 
-SkypeChat is a Console Application that let you start a conversation with your friends through cmd.exe
+SkypeChat is a Console Application that let you start a conversation with Skype through cmd.exe
 
 # Availables Langages
 
