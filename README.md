@@ -1,11 +1,15 @@
 # SkypeChat
 
-SkypeChat is a Console Application that let you start a conversation with Skype through cmd.exe
+SkypeChat est une application console qui vous permet d'envoyer des messages et d'appeler depuis l'Invité de commande.
 
-# Availables Langages
+# Langues disponibles
 
-English, Français.
+Français.
 
 # ChangeLogs
+
+[14/10/2015] : v1.10 Ajout de la fonction d'appel d'utilisateur.
+
+[14/10/2015] : v1.02 SkypeChat, correction de bugs qui causeaient un crash.
 
 [13/10/2015] : Added FR, added README.MD
