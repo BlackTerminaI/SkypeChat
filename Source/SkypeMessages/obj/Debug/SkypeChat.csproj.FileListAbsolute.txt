@@ -1,0 +1,8 @@
+F:\Projects\SkypeMessages\SkypeMessages\bin\Debug\SkypeMessages.exe.config
+F:\Projects\SkypeMessages\SkypeMessages\obj\Debug\Interop.SKYPE4COMLib.dll
+F:\Projects\SkypeMessages\SkypeMessages\obj\Debug\SkypeChat.csproj.ResolveComReference.cache
+F:\Projects\SkypeMessages\SkypeMessages\obj\Debug\SkypeMessages.exe
+F:\Projects\SkypeMessages\SkypeMessages\obj\Debug\SkypeMessages.pdb
+F:\Projects\SkypeMessages\SkypeMessages\bin\Debug\SkypeMessages.exe
+F:\Projects\SkypeMessages\SkypeMessages\bin\Debug\SkypeMessages.pdb
+F:\Projects\SkypeMessages\SkypeMessages\obj\Debug\SkypeChat.csprojResolveAssemblyReference.cache
